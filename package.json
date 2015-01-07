@@ -1,0 +1,24 @@
+{
+  "name": "react-auto-post-focus-mixin",
+  "version": "0.0.0",
+  "description": "A ReactJS mixin that causes a DOM node to receive focus at the end of its selection range",
+  "main": "AutoPostFocusMixin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@mhid.github.com:matthew-hilty/AutoPostFocusMixin.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "mixin",
+    "AutoFocusMixin",
+    "focus",
+    "selection",
+    "range"
+  ],
+  "author": "Matthew Hilty",
+  "license": "BSD"
+}
